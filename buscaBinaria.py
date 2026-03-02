@@ -23,7 +23,7 @@ print(numeros)
 #lista = contém os valores
 #x = alvo
 
-
+'''
 def busca_binaria (lista, x, low, high):
     while low <= high:
         mid = low + (high - low)//2
@@ -45,4 +45,18 @@ resultado = busca_binaria(lista_nova, alvo, l, h)
 if resultado != -1:
     print('Elmento está presente no index:' + str(resultado))
 else:
-    print('Elemento não encontrado')
+    print('Elemento não encontrado')'''
+
+#EX.1) Utilize o código sobre a estrutura binária, verifique o que está acontecendo, linha a linha,
+# quando o alvo for 8, depois refaça o teste com alvo = 9
+
+
+
+
+
+
+
+
+
+#EX.2
+
